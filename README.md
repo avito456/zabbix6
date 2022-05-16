@@ -5,7 +5,7 @@
 
 |Каталог   |Описание   |
 |----------|-----------|
-|**/usr/lib/zabbix/alertscripts   **|Том используется для пользовательских сценариев  предупреждений. Это параметр AlertScriptsPath в zabbix_server.conf.|
+|**/usr/lib/zabbix/alertscripts**   |Том используется для пользовательских сценариев  предупреждений. Это параметр AlertScriptsPath в zabbix_server.conf.|
 |**/usr/lib/zabbix/externalscripts**|Этот каталог используется внешними проверками (тип предметов). Это параметр ExternalScripts в zabbix_server.conf.|
 |**/var/lib/zabbix/modules**        |Каталог для подгрузки дополнительных модулей и расширений сервера Zabbix с помощью функции LoadModule.|
 |**/var/lib/zabbix/enc**            |Том используется для хранения файлов, связанных с TLS. Эти имена файлов задаются с помощью переменных , ZBX_TLSCAFILEи ZBX_TLSCRLFILE.ZBX_TLSKEY_FILEZBX_TLSPSKFILE|
