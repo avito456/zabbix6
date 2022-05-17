@@ -1,7 +1,7 @@
 # zabbix6
 
 
-Длявхода в web штеукфейс Zabbix, после первоначальной установки:
+Длявхода в web интерфейс Zabbix, после первоначальной установки:
 ~~~
 Username: Admin
 Password: zabbix
